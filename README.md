@@ -1,4 +1,4 @@
-# python-challenge
+# Poll Analysis and Bank Analysis using Python
 
 
 Created 2 folders. One for PyPoll and one for PyBank.
